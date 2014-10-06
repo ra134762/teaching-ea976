@@ -5,21 +5,24 @@
 
 ### Structure of a requirements document 
 
-Y/N : Preface
-Y/N : Introduction
-Y/N : Glossary
-Y/N : User requirements definition
-Y/N : System architecture
-Y/N : System requirements specification
-Y/N : System models
-Y/N : System evolution
-Y/N : Appendices
-Y/N : Index
+N : Preface
+Y : Introduction
+Y : Glossary
+Y : User requirements definition
+Y : System architecture
+N : System requirements specification
+Y : System models
+N : System evolution
+N : Appendices
+Y : Index
 
 
 ### Notation
-Y/N : Natural language
-Y/N : Structured natural language 
-Y/N : Design description languages
-Y/N : Graphical notations
-Y/N : Mathematical specifications
+Y : Natural language
+Y : Structured natural language 
+Y : Design description languages
+Y : Graphical notations
+N : Mathematical specifications
+
+
+DOCUMENTO ANALISADO: https://www.ibm.com/developerworks/community/wikis/form/anonymous/api/wiki/336d1dbb-5203-4eb3-8542-f4a2d1af056c/page/d9b0b712-ac9d-43ac-b430-0bc76b7edc31/attachment/ed2955ae-6245-4310-8491-91f6380b4d25/media/srs%20example.pdf
